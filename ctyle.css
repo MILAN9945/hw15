@@ -1,0 +1,45 @@
+.holder{
+    display: flex;
+    outline: solid gold;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 900px;
+}
+
+
+.item1{
+    background-color: red;
+    width: 450px;
+    height: 150px;
+    text-align: center;
+    
+    
+}
+
+.item2{
+    background-color:orange ;
+    width: 450px;
+    height: 150px;
+    text-align: center; 
+}
+
+.item3{
+    height: 150px;
+    width: 300px;
+    text-align: center; 
+    background-color: purple;
+}
+
+.item4{
+
+    height: 150px;
+    width: 300px;
+    text-align: center; 
+    background-color: blanchedalmond;
+}
+
+.item5{
+  background-color: green;
+    height: 150px;
+    width: 300px;
+    text-align: center;  }
